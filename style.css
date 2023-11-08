@@ -1,7 +1,7 @@
 .header{
     font-size: large;
     color: white;
-    background-image: url('../img file/header.jpeg');
+    background-image: url('header.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -30,7 +30,7 @@ li a.active{
 }
 .body{
     font-size: xx-large;
-    background-image: url('../img file/logo.jpg');
+    background-image: url('logo.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
